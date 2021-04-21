@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Davaleba_2" />
         <module name="Davaleba_1" />
+        <module name="Davaleba_3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Davaleba_1" target="1.8" />
       <module name="Davaleba_2" target="1.8" />
+      <module name="Davaleba_3" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

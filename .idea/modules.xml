@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Davaleba_1/Davaleba_1.iml" filepath="$PROJECT_DIR$/Davaleba_1/Davaleba_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Davaleba_2/Davaleba_2.iml" filepath="$PROJECT_DIR$/Davaleba_2/Davaleba_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Davaleba_3/Davaleba_3.iml" filepath="$PROJECT_DIR$/Davaleba_3/Davaleba_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Giorgi_Maisuradze_Java_2.iml" filepath="$PROJECT_DIR$/.idea/Giorgi_Maisuradze_Java_2.iml" />
     </modules>
   </component>

@@ -3,12 +3,14 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Davaleba_1" />
     <file type="web" url="file://$PROJECT_DIR$/Davaleba_2" />
+    <file type="web" url="file://$PROJECT_DIR$/Davaleba_3" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Davaleba_1/pom.xml" />
         <option value="$PROJECT_DIR$/Davaleba_2/pom.xml" />
+        <option value="$PROJECT_DIR$/Davaleba_3/pom.xml" />
       </list>
     </option>
   </component>
