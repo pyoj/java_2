@@ -6,15 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Davaleba_3" />
         <module name="Davaleba_2" />
         <module name="Davaleba_1" />
-        <module name="Davaleba_3" />
+        <module name="giorgi-maisuradze-davaleba-1" />
+        <module name="giorgi-maisuradze-davaleba-2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Davaleba_1" target="1.8" />
       <module name="Davaleba_2" target="1.8" />
       <module name="Davaleba_3" target="1.8" />
+      <module name="giorgi-maisuradze-davaleba-1" target="1.8" />
+      <module name="giorgi-maisuradze-davaleba-2" target="1.8" />
+      <module name="MidTerm" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
